@@ -5,4 +5,4 @@ In this lab, we we play around with a cellular automata algorithm based on one p
 ## Links
 
 * [Lab Instructions](./Wolfram%20Pyramids.pdf)
-* [Video overview (YouTube)](https://youtu.be/6hhnPZFN17A?si=ks5F7Tl8hhgFVFkj)
+* [Video overview (YouTube)](https://youtu.be/xhPbwvozjcM)
